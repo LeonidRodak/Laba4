@@ -1,0 +1,3 @@
+C:\C++\KP\Laba4\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\C++\KP\Laba4\Calculator\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\C++\KP\Laba4\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
